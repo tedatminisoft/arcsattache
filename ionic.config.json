@@ -1,5 +1,7 @@
 {
   "name": "arcsattache",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
